@@ -1,6 +1,11 @@
 # blender_geckolib_exporter
 It's a vibe coded blender 3.6 addon that can export blender keyframes to geckolib animations
 
+To install:
+
+Download geckolib_exporter.py
+Install it as an addon for blender
+
 How it works:
 1. Create a geckolib model in blockbench
 2. Assign the things you wanted to animate to bones (put them in folders in BB) and place the origin point at the most convenient place. Do not parent bones to other bones (do not put folders in folders)
