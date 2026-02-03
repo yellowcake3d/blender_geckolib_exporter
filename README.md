@@ -1,6 +1,8 @@
 # blender_geckolib_exporter
 It's a vibe coded blender 3.6 addon that can export blender keyframes to geckolib animations
 
+# I DO NOT RECOMMEND USING IT! ONLY PUBLISHED BECAUSE PEOPLE EXPRESSED INTEREST IN IMPROVING IT! This blender addon is AI-generated. It doesn't work good. You've been warned.
+
 To install:
 
 Download geckolib_exporter.py
